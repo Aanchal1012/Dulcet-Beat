@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-The server templet used here is cloned from git repository mpj/oauth bridge template.
+### The server templet used here is cloned from git repository- mpj/oauth bridge template.
